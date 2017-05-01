@@ -6,9 +6,9 @@ paginate: 5
 paginate_path: "page:num"
 
 # Setup
-title:               Work in progress
+title:               Code in progress
 tagline:             'TODO: Implement taglone'
-description:         'Description needed'
+description:         'Thoughts, Ideas and Code about game dev'
 url:                 http://srdobos.github.io
 baseurl:             ''
 paginate:            5
