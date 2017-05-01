@@ -1,6 +1,5 @@
 # Permalinks
 #
-# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 gems: [jekyll-paginate]
 paginate: 5
@@ -17,8 +16,9 @@ paginate:            5
 # About/contact
 author:
   name:              Steve Dobos
-  url:               https://twitter.com/srdobos
+  twitter:           https://twitter.com/srdobos
   email:             srdobos@gmail.com
+  linkedin:          https://www.linkedin.com/in/stevedobos
+  unityconnect:      https://connect.unity.com/u/582b993632b30600240003a4
 
 # Custom vars
-version:             1.0.0
